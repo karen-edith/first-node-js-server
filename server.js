@@ -2,7 +2,7 @@ var http = require('http'); //includes the http module
 console.log('starting');
 var port = 17500;
 var x = 10;
-var y = x*100;
+var y = x*100;]
 
 function onRequest(request, response){
 	console.log("A User has made a request" + request.url);
