@@ -1,0 +1,5 @@
+{
+	"name": "My First Node.js Server",
+	"repository": "https://github.com/karen-edith/first-node-js-server",
+	"keywords":["node", "heroku", "first"],
+}
